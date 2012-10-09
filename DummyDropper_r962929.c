@@ -106,6 +106,7 @@ public:
 				/*
 				changes attitude vector from current position to either 90 degrees clockwise
 				90 degrees counterclockwise
+				*/
 				if(startX > 0)
 				{
 					torques[0] = -sphere[7];
