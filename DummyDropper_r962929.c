@@ -139,7 +139,8 @@ public:
 //BEGIN::PAGE::main
 
 	/*
-
+	This is where we implement our strategy. It is to drop all of the SPHERE's dust, quickly collect the disabled
+	satellite in Zone 2, and proceed to the finish line. 
 	*/
 
 	//Declare any variables shared between functions here
