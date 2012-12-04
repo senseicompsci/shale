@@ -17,13 +17,6 @@ public class Words
       System.out.println(word);
    }
    
-   public Words combine(Words otherword)
-   {
-      Words w = new Words(word + otherword.get());
-      System.out.println(w);
-      return w;
-   }
-   
    public String get()
    {
       return word;
